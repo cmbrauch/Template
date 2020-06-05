@@ -17,13 +17,14 @@ The purpose of this project is to FILL IN RELEVANT INFORMATION HERE.
 ## Known Bugs
 
 _No bugs are known at this time_
+
 _OR ARE THERE?_
 
 ## Support and contact details
 
 Please contact any author with questions, comments, or concerns!
-Chris Brauch <cmbrauch00@gmail.com>
 
+Chris Brauch <cmbrauch00@gmail.com>
 
 ## Technologies Used
 
